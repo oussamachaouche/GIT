@@ -1,4 +1,1 @@
-console("ddd");
-oussama
-jjj
-jjkkljlk
+console.log("oussama");
